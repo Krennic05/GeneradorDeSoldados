@@ -12,19 +12,3 @@
 
 Dicho lo anterior, ciertamente el código del programa se puede prestar para generar personajes para otros juegos por el estilo.
 Espero que el programa sea util y de su agrado :)
-
-
-
-# SoldierGenerator
- Random Soldier Generator for the game "NUTS! man-to-man combat"
- manual written by Ed Teixeira
- 
-NUTS! It is a game where soldiers are handled whose quality and attributes are obtained through different dice rolls, as there are occasions where many troops are involved,
- The game becomes very large and it is already difficult to keep track of a few soldiers with their reputation and attributes to do more.
- Considering the above I have created the following program, which by just entering two values (one to select the nation and one to select the type of squadron) can be
- Generate a squad of soldiers by assigning each of these soldiers:
- A number
- The value of the soldier's reputation
- The soldier's attribute (accompanied by his or her number and table number to look up in the NUTS! manual on pages 6 and 7)
-
-That said, certainly the code of the program can be lent to generate characters for other games
